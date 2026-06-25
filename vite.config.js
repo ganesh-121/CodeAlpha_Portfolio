@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [
     react(),
   ],
+  base: '/CodeAlpha_Portfolio/',
 })
